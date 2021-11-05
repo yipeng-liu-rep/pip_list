@@ -1,0 +1,40 @@
+asgiref @ file:///tmp/build/80754af9/asgiref_1625643473416/work
+brotlipy==0.7.0
+certifi==2021.10.8
+cffi @ file:///C:/ci/cffi_1625831764494/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+cli-helpers==2.2.0
+click==8.0.3
+colorama==0.4.4
+configobj==5.0.6
+cryptography @ file:///C:/ci/cryptography_1633502396740/work
+Django @ file:///tmp/build/80754af9/django_1617740316746/work
+django-redis==5.0.0
+djangorestframework==3.12.4
+idna @ file:///tmp/build/80754af9/idna_1622654382723/work
+importlib-metadata==4.8.1
+importlib-resources==5.2.2
+mysqlclient==1.4.0
+olefile==0.46
+Pillow==8.4.0
+prompt-toolkit==3.0.20
+psycopg2 @ file:///C:/ci/psycopg2_1612298715048/work
+pyaes==1.6.1
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+Pygments==2.10.0
+PyMySQL @ file:///C:/ci/pymysql_1610464946597/work
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1635333100036/work
+pyperclip==1.8.2
+PySocks @ file:///C:/ci/pysocks_1594394709107/work
+pytz==2021.3
+redis==3.5.3
+requests @ file:///tmp/build/80754af9/requests_1629994808627/work
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+sqlparse @ file:///tmp/build/80754af9/sqlparse_1602184451250/work
+tabulate==0.8.9
+typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1631814937681/work
+urllib3==1.26.7
+wcwidth==0.2.5
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306165655/work
+wincertstore==0.2
+zipp==3.6.0
